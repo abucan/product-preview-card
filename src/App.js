@@ -1,5 +1,6 @@
+import Product from './pages/product';
 const App = () => {
-  return <div>Product Preview Card</div>;
+  return <Product />;
 };
 
 export default App;
